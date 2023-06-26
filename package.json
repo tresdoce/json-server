@@ -1,0 +1,23 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "[https://my-json-server.typicode.com/tresdoce/demo](https://my-json-server.typicode.com/tresdoce/json-server)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./serve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tresdoce/json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tresdoce/json-server/issues"
+  },
+  "homepage": "https://github.com/tresdoce/json-server#readme",
+  "dependencies": {
+    "restapify": "^2.3.4"
+  }
+}
